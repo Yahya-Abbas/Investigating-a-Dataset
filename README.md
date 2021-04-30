@@ -36,6 +36,6 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 ## Requirements
 
--   [pandas](https://pandas.pydata.org/) `version 0.25.0 or higher`
+-   [Pandas](https://pandas.pydata.org/) `version 0.25.0 or higher`
 -   [NumPy](https://numpy.org/)
 -   [Matplotlib](https://matplotlib.org/)
